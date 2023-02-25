@@ -36,6 +36,24 @@
 
 >![image](https://user-images.githubusercontent.com/98751980/221348988-2b952338-8ae2-48a3-86ca-3e550917d477.png)
 
+## How to stop Windows defender from removing the executable 
+
+**1. Open Windows Security and click on virus & threat protection settings**
+>![image](https://user-images.githubusercontent.com/98751980/221366952-2b28e2b4-d1cc-4075-a120-473ecfa9e509.png)
+
+**2.Click on manage settings and add exclusions**
+>![image](https://user-images.githubusercontent.com/98751980/221367040-0ef8736a-ed1d-4e2c-b299-06312626cdde.png)
+
+**3. Add exclusion and select "file" from the dropdown**
+>![image](https://user-images.githubusercontent.com/98751980/221367098-17bc4f9a-792c-4d7e-ab9d-13f3ded2076f.png)
+
+**4. Specify the path of the folder where the project is saved**
+>![image](https://user-images.githubusercontent.com/98751980/221367210-5839cdb9-82bd-4f81-90d0-bfd2f5d0cb5a.png)
+
+
+
+
+
 
 
 
