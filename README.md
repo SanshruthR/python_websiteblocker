@@ -7,7 +7,7 @@
 
 ## How to Run
 
-**1.Run preq.bat to install the dependencies**
+**1.Run websiteblocker.exe to install the dependencies**
 >![image](https://user-images.githubusercontent.com/98751980/221347546-32c83f33-24f9-4666-ad05-bce5e26bc8f6.png)
 
 
@@ -30,7 +30,7 @@
 
 >![image](https://user-images.githubusercontent.com/98751980/221348872-8ef588e2-7f1b-4c76-b67e-ac17ae7f8e76.png)
 
-**7. Unblock the websites by running the script again and clicking on unblock websites**
+**7. Unblock the websites by running the executable again and clicking on unblock websites**
 
 **8. Close the browser and visit the unblocked website again**
 
